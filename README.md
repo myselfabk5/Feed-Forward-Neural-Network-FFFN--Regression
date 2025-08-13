@@ -1,4 +1,4 @@
-# Feed-Forward-Neural-Network-FFNN (Regression)
+# Feed-Forward-Neural-Network(FFNN)-Regression
 
 **Data Loading & Preprocessing** – Reads housing price data, selects relevant numeric features, checks for missing values, and standardizes them using z-score normalization.
 
